@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(git tag:*)",
+      "Bash(git commit:*)",
+      "Bash(git fetch:*)",
+      "Bash(git *)",
+      "Bash(gh *)",
+      "Bash(echo *)",
+      "Bash(grep *)",
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(ls *)",
+      "Bash(pwd)",
+      "Bash(find *)",
+      "Bash(wc *)",
+      "Bash(sort *)",
+      "Bash(uniq *)",
+      "Bash(cut *)",
+      "Bash(sed *)",
+      "Bash(awk *)",
+      "Bash(mkdir *)",
+      "Bash(mv *)",
+      "Bash(cp *)",
+      "Bash(rm *)",
+      "Bash(date *)",
+      "Bash(python3 *)",
+      "Bash(for *)",
+      "Bash(while *)",
+      "Bash(if *)",
+      "Bash(then *)",
+      "Bash(else *)",
+      "Bash(elif *)",
+      "Bash(fi)",
+      "Bash(do *)",
+      "Bash(done)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

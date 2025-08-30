@@ -78,3 +78,17 @@ A productive dialogue ensued in which I was able to manually refine my list of b
 >   - top (shed wall end) L-style
 > - Synthetic underlayment
 
+### prep for Claude
+
+To bring Claude into the mix, I stand on the shoulders of giants and steal heavily from one @dbeatty10 made for an internal project of ours. The things I like that I'm cribbing:
+1. `Workflow Improvement Protocol`: automatically trigger workflow to refine the worflow and documentation after every prompt
+2. a `CHAT_LOG.md` to preserve our conversation
+
+I'm also introducing the concept of an `outputs/` directory into which I put the current state of my specification, that I'd like to iterate on with Claude.
+
+Right now it's just a single markdown file, but I can foresee if being a number of files like:
+- a diagram
+- materials list
+- shopping list for Lowes
+- instructions
+

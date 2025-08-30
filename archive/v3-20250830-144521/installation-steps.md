@@ -168,40 +168,19 @@
 
 ## Weather Considerations & Time Estimates
 
-### Amateur Builder Timeline (With Learning Curve)
-- **Total Project Time**: 30-40 hours (4-5 full days)
-- **Phase 1**: Ledger installation (5-7 hours)
-  - *Amateur factors*: Wall stud location, level checking, multiple measurement verification
-- **Phase 2**: Posts & beam (6-8 hours)  
-  - *Amateur factors*: Pier alignment corrections, beam positioning, helper coordination
-- **Phase 3**: Rafter installation (8-10 hours)
-  - *Amateur factors*: Template fitting, multiple test cuts, bird's mouth precision
-- **Phase 4**: Purline installation (3-4 hours)
-  - *Amateur factors*: Spacing verification, straight line maintenance
-- **Phase 5**: Roofing installation (8-11 hours)
-  - *Amateur factors*: Panel alignment, fastener placement, weather sealing
-
-### Professional vs Amateur Comparison
-| Phase | Professional | Amateur | Additional Time Factor |
-|-------|-------------|---------|----------------------|
-| Phase 1 | 3-4 hrs | 5-7 hrs | +60% (measuring, leveling) |
-| Phase 2 | 4-5 hrs | 6-8 hrs | +50% (alignment corrections) |
-| Phase 3 | 4-6 hrs | 8-10 hrs | +70% (cutting precision) |
-| Phase 4 | 2-3 hrs | 3-4 hrs | +30% (spacing accuracy) |
-| Phase 5 | 6-8 hrs | 8-11 hrs | +40% (panel installation) |
-
-### Amateur-Specific Time Factors
-- **Learning curve**: First-time techniques add 30-70% time
-- **Mistake correction**: Budget 10-15% extra time for redoing steps  
-- **Tool familiarity**: Unfamiliar tools slow initial progress
-- **Measurement verification**: Double/triple-checking adds time but prevents errors
-- **Break frequency**: Fatigue increases with inexperience
+### Overall Project Timeline
+- **Total Project Time**: 19-26 hours (2-3 full days)
+- **Phase 1**: Ledger installation (3-4 hours)
+- **Phase 2**: Posts & beam (4-5 hours)  
+- **Phase 3**: Rafter installation (4-6 hours)
+- **Phase 4**: Purline installation (2-3 hours)
+- **Phase 5**: Roofing installation (6-8 hours)
 
 ### Weather Requirements
 - **Ideal Conditions**: Dry, calm weather 45-75°F
 - **Avoid**: High winds (15+ mph), rain, extreme heat/cold
 - **Seasonal**: Spring/summer best for metal roofing work
-- **Daily Schedule**: 6-8 hour work days with frequent breaks for amateur builders
+- **Daily Schedule**: 8-10 hour work days with breaks
 
 ## Troubleshooting Common Issues
 

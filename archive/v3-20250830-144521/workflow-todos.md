@@ -1,7 +1,7 @@
 # Lean-To Roof Construction Workflow Todos (Updated)
 
-**Session Start**: 2025-08-30 14:35:48 (Updated: 14:43:30)
-**Project**: DIY Lean-To Roof with Enhanced Amateur Builder Support
+**Session Start**: 2025-08-30 14:35:48
+**Project**: DIY Lean-To Roof with User-Specific Considerations
 
 ## User-Specified Constraints Incorporated
 - ✅ **Transport**: 12-foot hatchback maximum lumber length
@@ -10,9 +10,7 @@
 - ✅ **Fasteners**: Torx head screws specified throughout
 - ✅ **Retail**: Lowe's preference noted, Home Depot as backup
 - ✅ **Tools**: DeWalt 20V cordless tool inventory assessed
-- ✅ **Time Estimates**: All phases include amateur-focused time estimates
-- ✅ **NEW**: Structural diagrams with ASCII art created
-- ✅ **NEW**: Executive summary added to comprehensive plan
+- ✅ **Time Estimates**: All phases include time estimates
 
 ## Updated Construction Planning Todos
 
@@ -40,9 +38,7 @@
 - [x] Plan rafter installation process ✓ **UPDATED for pier variations**
 - [x] Specify roofing installation steps ✓ **UPDATED for Torx screws**
 - [x] **NEW**: Add pier alignment correction procedures ✓ **COMPLETED**
-- [x] **NEW**: Include time estimates for all phases ✓ **UPDATED for amateurs**
-- [x] **NEW**: Create structural diagrams with ASCII art ✓ **COMPLETED**
-- [x] **NEW**: Add executive summary to comprehensive plan ✓ **COMPLETED**
+- [x] **NEW**: Include time estimates for all phases ✓ **COMPLETED**
 
 ### Phase 4: Materials & Tools ✅ COMPLETED
 - [x] Complete lumber list with dimensions ✓ **UPDATED for transport**
@@ -81,13 +77,13 @@
 - ✅ **Simpson brackets**: Noted as pre-installed
 - ⚠️ **Alignment planning**: Procedures added for non-plumb corrections
 
-### Time Estimates Added (Amateur Builder Focus)
-- **Phase 1**: Ledger installation (5-7 hours) [+60% for measuring/leveling]
-- **Phase 2**: Posts & beam (6-8 hours) [+50% for alignment corrections]
-- **Phase 3**: Rafter installation (8-10 hours) [+70% for cutting precision]
-- **Phase 4**: Purline installation (3-4 hours) [+30% for spacing accuracy]
-- **Phase 5**: Roofing installation (8-11 hours) [+40% for panel installation]
-- **Total**: 30-40 hours (4-5 full days with learning curve)
+### Time Estimates Added
+- **Phase 1**: Ledger installation (3-4 hours)
+- **Phase 2**: Posts & beam (4-5 hours)
+- **Phase 3**: Rafter installation (4-6 hours)
+- **Phase 4**: Purline installation (2-3 hours)
+- **Phase 5**: Roofing installation (6-8 hours)
+- **Total**: 19-26 hours (2-3 full days)
 
 ## Files Updated with User Considerations
 - [x] `user_considerations.md` - New comprehensive constraint documentation ✓ **CREATED**
@@ -95,7 +91,6 @@
 - [x] `materials-list.md` - Modified for transport, Torx screws, tool advice ✓ **UPDATED**
 - [x] `installation-steps.md` - Added times, pier corrections, Torx specs ✓ **UPDATED**
 - [x] `workflow-todos.md` - Updated tracking with user modifications ✓ **UPDATED**
-- [x] `structural-diagrams.md` - New ASCII diagrams for all components ✓ **CREATED**
 
 ## Cost Impact of Modifications
 - **Original Estimate**: $669-939
@@ -110,17 +105,9 @@
 4. **Weather timing**: Plan 3 consecutive good-weather days
 5. **Helper availability**: Especially for beam installation phase
 
-## Latest Enhancements (Session Update)
-- **Amateur Time Estimates**: Realistic 30-40 hour timeline with learning curve factors
-- **Visual Documentation**: Comprehensive ASCII diagrams showing all structural details
-- **Executive Summary**: Clear project overview with critical success factors
-- **Enhanced Planning**: Professional vs amateur comparison tables
-
 ## Next Steps Ready for Execution
-- All planning documentation updated with amateur builder considerations
-- Structural diagrams provide visual guidance for construction
-- Executive summary gives clear project overview and timeline
+- All planning documentation updated with user considerations
 - Transport logistics solved with field assembly approach
 - Tool upgrade path identified with cost-benefit analysis
-- Realistic time estimates account for inexperience and learning curve
+- Time estimates provide realistic project scheduling
 - Pier alignment issues proactively addressed in procedures

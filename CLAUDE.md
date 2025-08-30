@@ -24,25 +24,63 @@ copy contents of `outputs/` into a folder within `archive/` but rename `outputs/
 - `X`: the attempt number we're on
 - `TIMESTAMP` the timestamp at which `outputs/` was last generated
 
-### 3. Incorporate user considerations
+### 3. Professional Contractor Review
+
+Before beginning any planning process, conduct a thorough professional review of the current plans from the perspective of an experienced contractor or master builder. Look for:
+
+**Structural Issues:**
+- Load calculations and beam sizing adequacy
+- Foundation requirements and pier spacing
+- Connection details and hardware specifications
+- Code compliance gaps
+
+**Construction Challenges:**
+- Sequencing problems that could cause rework
+- Access issues during construction
+- Material handling difficulties
+- Weather-dependent operations
+
+**Cost & Time Gotchas:**
+- Hidden costs not included in estimates
+- Unrealistic time estimates
+- Tool or skill requirements beyond user capability
+- Permit or inspection requirements
+
+**Safety Concerns:**
+- Fall protection requirements
+- Heavy lifting operations
+- Electrical hazards
+- Structural stability during construction
+
+Document findings in a professional review section and address critical issues before proceeding.
+
+### 4. Incorporate user considerations
 
 If the user has provided additional considerations, requirements, or constraints, create a file called `user_considerations.md` in the `outputs/` directory to document these inputs. This ensures all user-provided context is preserved and incorporated into the planning process.
 
-### 4. Make a plan
+### 5. Structure comprehensive-plan.md as central README
 
-Follow a general format for improving the plans, incorporating any user considerations from the previous step.
+Create `comprehensive-plan.md` as the primary README-style document that:
+- Serves as the entry point to all project documentation
+- Links to all other specialized documents
+- Provides executive summary and navigation
+- Functions as a project dashboard
+
+### 6. Make a plan
+
+Follow a general format for improving the plans, incorporating any user considerations and contractor review findings.
 
 Write the plan into a to do file
 
-### 5. Follow the plan
+### 7. Follow the plan
 
 Execute the plan update the todo file as you go
 
-### 6. execute Workflow Improvement Protocol
+### 8. execute Workflow Improvement Protocol
 
 detailed below
 
-### 7. Create CHAT_LOG.md
+### 9. Create CHAT_LOG.md
 
 Automatically create/update CHAT_LOG.md with complete session history:
 - Use exact user quotes (never paraphrase)

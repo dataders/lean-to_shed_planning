@@ -1,5 +1,7 @@
 # handy dad in the machine
 
+[current iteration of the plan](outputs/comprehensive-plan.md)
+
 ## background
 
 I've never built a lean-to roof before, but as a father of two, I am in desparate need of both

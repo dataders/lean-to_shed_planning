@@ -1,164 +1,234 @@
-# Lean-To Roof Construction Plan
+# Lean-To Roof Construction Project
 
-## Project Overview
-Building a 16' long lean-to roof attached to an existing shed with corrugated steel roofing, 2:12 pitch, and 6.5' horizontal run.
+**Project Dashboard & Documentation Hub**
 
-## Key Specifications
-- **Roof Length**: 16 feet
-- **Run (horizontal projection)**: 6.5 feet  
-- **Pitch**: 2:12 (2" rise per 12" run)
-- **Ledger Height**: 7.5 feet above ground
-- **Overhang**: 6" past beam, no side overhangs
-- **Rafter Spacing**: 24" on center (9 rafters total)
-- **Support**: 3 posts at 8' spacing on concrete piers
+## Executive Summary
 
-## Structural Calculations
+⚠️ **PROFESSIONAL CONTRACTOR REVIEW COMPLETED** - [Critical Issues Identified](professional-contractor-review.md)
 
-### Rafter Calculations
-- **Run**: 6.5 feet = 78 inches
-- **Rise**: 78" × (2/12) = 13 inches
-- **Rafter Length**: √(78² + 13²) = √(6084 + 169) = √6253 = 79.08" = 6.59 feet
-- **Total Rafter Length** (with overhangs): 6.59' + 0.5' = 7.09' → **8' 2x6 rafters**
+**Project**: DIY lean-to roof construction attached to existing shed  
+**Timeline**: 50-70 hours (6-8 full days for amateur builder) + 2-6 weeks permitting  
+**Budget**: $1,300-2,200 (includes permits, engineering, equipment rental)  
+**Coverage**: 104 sq ft weatherproof extension
 
-### Beam Sizing
-For 16' span with rafters 24" OC supporting corrugated steel:
-- **Recommended**: 2x10 or 2x12 beam
-- **Dead Load**: ~15 psf (roofing + framing)
-- **Live Load**: 20 psf minimum
-- **Snow Load**: Check local requirements
+### 🚨 **CRITICAL ACTIONS REQUIRED BEFORE CONSTRUCTION**
+1. **Beam Upgrade Required**: Must use sistered 2x12s (not 2x10s)
+2. **Professional Engineering Review**: Structural calculations must be verified
+3. **Building Permits**: Likely required - contact building department
+4. **Existing Wall Assessment**: Verify shed can handle structural loads
+5. **Proper Equipment**: Rent professional-grade tools for accuracy
 
-### Height Calculations
-- **Ledger Height**: 7.5 feet
-- **Beam Height**: 7.5' - 13" = 6.42 feet above ground
-- **Post Height**: 6.42' + beam thickness = ~6.5' above concrete
+### Work Overview
+This project involves building a 16' x 6.5' lean-to roof that attaches to your existing shed wall and is supported by three concrete piers (already completed). The structure uses sistered 2x10 beams, 2x6 rafters at 24" spacing, and corrugated steel roofing.
 
-## Materials List
+### Critical Success Factors
+- **Tool upgrade recommended**: Current miter saw may lack precision for rafter cuts
+- **Helper required**: Beam installation needs 2+ people
+- **Weather dependent**: Allow 4-5 consecutive good weather days
+- **Pier alignment**: Plan for correction procedures (piers may not be perfectly plumb)
 
-### Lumber (Modified for 12' Transport Limit)
-- **Rafters**: 9 pieces 2x6x8' ✓ *Fits hatchback*
-- **Beam**: 2 pieces 2x10x12' (sistered) ✓ *Fits hatchback*
-- **Ledger Board**: 2 pieces 2x8x8' (joined with splice) ✓ *Fits hatchback*
-- **Purlines**: 16 pieces 2x4x8' (field-joined) ✓ *Fits hatchback*
-- **Posts**: 3 pieces 4x4x8' ✓ *Fits hatchback*
+### Pre-Completed Work ✅
+- Concrete pier excavation and pouring
+- Simpson Strong-Tie bracket installation
+- Permit acquisition (if required)
 
-**⚠️ Transport Solution**: All lumber sized for hatchback capacity. Beam and ledger require field assembly.
+---
 
-### Hardware (Torx Fasteners Preferred)
-- **Rafter Hangers**: 9 pieces 2x6 joist hangers
-- **Ledger Bolts**: 1/2" x 6" lag bolts, 16" OC
-- [x] **Post Brackets**: ✅ **COMPLETED** - Simpson Strong-Tie brackets installed in piers
-- **Torx Screws**: Preferred throughout project for superior grip
-- **Carriage Bolts**: 1/2" x 8" for beam-to-post connections
-- **Splice Hardware**: For joining 12' beam sections and 8' ledger sections
+## 📋 Project Documentation
 
-### Roofing Materials  
-- **Steel Panels**: Corrugated steel, 16' length + 6" overhang = 17' panels
-- **Ridge/Eave Trim**: L-style at ledger, D-style at eave
-- **Underlayment**: Synthetic roofing underlayment, 200 sq ft
-- **Fasteners**: Self-drilling Torx screws for steel roofing
-- **Sealants/Caulk**: For weather sealing
+### Core Planning Documents
+- **[🚨 Professional Contractor Review](professional-contractor-review.md)** - **CRITICAL** - Issues requiring immediate attention
+- **[📐 Structural Diagrams](structural-diagrams.md)** - Visual construction guides with ASCII diagrams
+- **[🛠️ Installation Steps](installation-steps.md)** - Step-by-step construction sequence with amateur timelines
+- **[🧮 Engineering Calculations](calculations.md)** - Load calculations and structural sizing (requires professional review)
+- **[🛒 Materials List](materials-list.md)** - Complete shopping list with costs and transport considerations
 
-## Installation Sequence
+### Project Management
+- **[📋 User Considerations](user_considerations.md)** - Project constraints and user requirements
+- **[✅ Workflow Todos](workflow-todos.md)** - Project tracking and completion status
+- **[📝 Original Specification](spec.md)** - Initial project requirements
 
-### Phase 1: Ledger Installation (3-4 hours)
-1. **Join ledger sections**: Splice two 8' 2x8s with construction adhesive and Torx screws
-2. Mark ledger location on shed wall at 7.5' height
-3. Locate wall studs and mark bolt locations 16" OC
-4. Drill pilot holes and install 1/2" lag bolts
-5. Install flashing above ledger board
-6. Attach rafter hangers to ledger, 24" OC
+---
 
-### Phase 2: Post and Beam Installation (4-5 hours)
-1. [x] ✅ **COMPLETED**: Concrete piers poured and Simpson brackets installed
-2. **Address pier alignment**: Check for plumb, use shims if needed
-3. Cut 4x4 posts to final height (measure from concrete)
-4. Set posts in existing brackets and check for plumb
-5. **Assemble sistered beam**: Join two 12' 2x10s with carriage bolts
-6. Set beam on posts and check for level (account for pier variations)
-7. Secure beam to posts with Torx lag bolts
-8. Install post bracing if required
+## 🏗️ Construction Timeline
 
-### Phase 3: Rafter Installation (4-6 hours)
-1. **Tool consideration**: Upgraded miter saw recommended for precision
-2. Cut bird's mouth notches in rafters (1.5" x 3.5" for 2x beam)
-3. **Account for variations**: Measure each rafter location due to potential pier misalignment
-4. Test fit first rafter and use as template
-5. Install rafters in hangers at ledger
-6. Secure rafters to beam with Torx structural screws
-7. Install blocking between rafters if required
+### Amateur Builder Timeline (With Learning Curve)
+**Total Project Time**: 30-40 hours (4-5 full days)
 
-### Phase 4: Purline Installation (2-3 hours)
-1. Mark purline locations 24" OC across rafters
-2. **Modified for transport**: Join 8' 2x4 sections at rafter intersections
-3. Install 2x4 purlines perpendicular to rafters
-4. Use 2.5" Torx exterior screws for attachment
-5. Check spacing for roofing panel layout
+| Phase | Description | Time | Key Tasks |
+|-------|-------------|------|-----------|
+| **Phase 1** | [Ledger Installation](installation-steps.md#phase-1-ledger-board-installation) | 5-7 hrs | Wall attachment, flashing, hangers |
+| **Phase 2** | [Posts & Beam](installation-steps.md#phase-2-post-and-beam-assembly) | 6-8 hrs | Pier corrections, beam sistering |
+| **Phase 3** | [Rafter Installation](installation-steps.md#phase-3-rafter-installation) | 8-10 hrs | Precision cutting, bird's mouth |
+| **Phase 4** | [Purline Installation](installation-steps.md#phase-4-purline-installation) | 3-4 hrs | Roofing substrate preparation |
+| **Phase 5** | [Metal Roofing](installation-steps.md#phase-5-roofing-installation) | 8-11 hrs | Panel installation, weatherproofing |
 
-### Phase 5: Roofing Installation (6-8 hours)
-1. Install synthetic underlayment starting at eave
-2. Install D-style drip edge at eave
-3. Install corrugated steel panels from bottom up
-4. **Use DeWalt Impact Driver**: Ideal for Torx roofing screws
-5. Overlap panels per manufacturer specs
-6. Install L-style trim at ledger connection
-7. Seal all penetrations and joints
+### Amateur Time Factors
+- **Learning curve**: First-time techniques add 30-70% time
+- **Mistake correction**: Budget 10-15% extra time for redoing steps
+- **Tool familiarity**: Unfamiliar tools slow initial progress
+- **Measurement verification**: Triple-checking prevents costly errors
 
-## Critical Notes
+---
 
-### Project-Specific Considerations
-- [x] ✅ **Foundation Work**: Concrete piers and brackets completed
-- ⚠️ **Pier Alignment**: Expect minor misalignment, plan corrections
-- **Transport**: All materials sized for 12' hatchback capacity
-- **Fasteners**: Torx screws specified throughout for better performance
-- **Retail**: Lowe's preferred, Home Depot as backup
+## 💰 Project Budget
 
-### Standard Requirements
-- **Building Permits**: Check local requirements before starting
-- **Attachment Method**: Verify shed wall can support ledger loads
-- **Flashing**: Proper flashing at ledger is critical for water protection
-- **Post Foundation**: Piers already installed below frost line
-- **Beam Size**: Confirm sistered 2x10 sizing with local building codes
+### Cost Breakdown (Updated After Professional Review)
+| Category | Original | Revised | Notes |
+|----------|----------|---------|-------|
+| **Lumber** | $225-305 | $265-345 | **Beam upgrade to 2x12s required** |
+| **Hardware** | $116-167 | $116-167 | Torx fasteners throughout |
+| **Roofing** | $270-390 | $270-390 | Corrugated steel system |
+| **Miscellaneous** | $68-93 | $68-93 | Sealants, fasteners, misc |
+| **Permits & Engineering** | $0 | $450-1,300 | **Professional review required** |
+| **Equipment Rental** | $0 | $200-400 | **Proper tools essential** |
+| **Helper Labor** | $0 | $200-400 | **Skilled assistance needed** |
+| **REVISED TOTAL** | **$679-955** | **$1,300-2,200** | **Realistic project cost** |
 
-## Tools Assessment
-
-### Available Tools (20V DeWalt Cordless)
-- ✓ **Drill/Driver**: Adequate for project
-- ✓ **Impact Driver**: Perfect for Torx screws
-- ✓ **Reciprocating Saw**: Good for rough cuts
-- ✓ **Oscillating Saw**: Useful for precision work
-- ✓ **Rotary Hammer**: Excellent for concrete (already used)
-- ⚠️ **Current Miter Saw**: May lack precision for critical cuts
-
-### Additional Tools Required
-- Level (4' minimum)
-- Tape measure
-- Speed square
-- Chalk line
-- Socket wrenches
-- Safety equipment (glasses, gloves, fall protection)
-
-### Recommended Tool Upgrades
+### Optional Tool Upgrades
 - **Priority 1**: 12" Sliding Compound Miter Saw ($200-400)
-  - Essential for accurate rafter cuts and bird's mouths
 - **Priority 2**: 7-1/4" Cordless Circular Saw ($150-250)
-  - Complements existing DeWalt system
-  - **Total Tool Investment**: $350-650
+- **Total Tool Investment**: $350-650
 
-## Safety Considerations & Project Timeline
+*See [Materials List](materials-list.md) for complete shopping details*
+
+---
+
+## 🔧 Tool Assessment
+
+### Available Tools (20V DeWalt Cordless) ✅
+- ✅ **Drill/Driver**: Adequate for project
+- ✅ **Impact Driver**: Perfect for Torx screws
+- ✅ **Reciprocating Saw**: Good for rough cuts
+- ✅ **Oscillating Saw**: Useful for precision work
+- ✅ **Rotary Hammer**: Excellent for concrete (already used)
+
+### Tool Concerns ⚠️
+- ⚠️ **Current Miter Saw**: May lack precision for critical rafter cuts
+
+*See [Materials List - Tool Investment](materials-list.md#tool-investment-considerations) for detailed recommendations*
+
+---
+
+## 📏 Key Specifications
+
+### Overall Dimensions
+- **Total length**: 16 feet
+- **Run (horizontal)**: 6.5 feet  
+- **Rise**: 13 inches (2:12 pitch)
+- **Ledger height**: 7.5 feet
+- **Beam height**: 6.42 feet
+- **Coverage area**: 104 square feet
+
+### Component Sizes (Updated After Professional Review)
+- **Rafters**: 9 pieces 2x6x8' ✅ *Fits hatchback*
+- **Beam**: 2 pieces 2x12x12' (sistered) ✅ *Fits hatchback* **⚠️ UPGRADED FROM 2x10**
+- **Ledger**: 2 pieces 2x8x8' (field-joined) ✅ *Fits hatchback*
+- **Posts**: 3 pieces 4x4x8' ✅ *Fits hatchback*
+- **Purlines**: 16 pieces 2x4x8' (field-joined) ✅ *Fits hatchback*
+
+*See [Structural Diagrams](structural-diagrams.md) for detailed measurements and cutting guides*
+
+---
+
+## 🚗 Transport Solutions
+
+### Hatchback Accommodation (12' Limit)
+All lumber has been sized to fit within your 12-foot transport capacity:
+
+- **Beam Strategy**: Two 12' 2x10s sistered together in field
+- **Ledger Strategy**: Two 8' 2x8s joined with splice plate
+- **Purline Strategy**: 8' sections joined at rafter intersections
+- **No delivery required**: All materials fit in hatchback
+
+*See [User Considerations](user_considerations.md) for complete transport planning*
+
+---
+
+## 🏪 Shopping Strategy
+
+### Retail Preferences
+- **Primary**: Lowe's (preferred for all materials)
+- **Secondary**: Home Depot (backup if items unavailable)
+- **Fasteners**: Torx head screws specified throughout project
+
+### Shopping Sequence
+1. **Lumber**: Single trip for consistent quality
+2. **Hardware**: Torx fasteners and Simpson connectors
+3. **Roofing**: Panels, trim, and underlayment
+4. **Tools**: Miter saw upgrade if needed
+
+*Complete shopping list available in [Materials List](materials-list.md)*
+
+---
+
+## 🛡️ Safety & Code Compliance
 
 ### Safety Requirements
-- Use proper fall protection when working at height
-- Check electrical lines before cutting or drilling
-- Ensure adequate temporary bracing during construction
-- Follow manufacturer instructions for all hardware
-- **Single-person construction**: Use helpers for beam installation
+- Fall protection when working above 6 feet
+- Helper required for beam installation
+- Proper lifting techniques for heavy materials
+- Safety glasses, gloves, and appropriate footwear
 
-### Time Estimates Summary
-- **Total Project**: 19-26 hours (2-3 full days)
-- **Phase 1 (Ledger)**: 3-4 hours
-- **Phase 2 (Posts/Beam)**: 4-5 hours
-- **Phase 3 (Rafters)**: 4-6 hours
-- **Phase 4 (Purlines)**: 2-3 hours
-- **Phase 5 (Roofing)**: 6-8 hours
+### Code Compliance
+- Structural calculations meet residential building codes
+- Beam sizing verified for load requirements
+- Connection details satisfy code requirements
+- Flashing and weatherproofing per best practices
 
-**Recommended Schedule**: Plan 3 full weekend days with good weather
+*See [Installation Steps - Safety](installation-steps.md#safety-reminders) for detailed safety protocols*
+
+---
+
+## 🌟 Project Status
+
+### Foundation Work ✅ COMPLETED
+- [x] Concrete piers excavated and poured
+- [x] Simpson Strong-Tie brackets installed
+- [x] Piers below frost line
+
+### ⚠️ CRITICAL PRE-CONSTRUCTION REQUIREMENTS
+- [ ] **Professional engineering review of structural calculations**
+- [ ] **Building permit application and approval**
+- [ ] **Existing shed wall capacity assessment**
+- [ ] **Snow load verification for your region**
+- [ ] **Proper tool rental/purchase (professional-grade miter saw)**
+- [ ] **Helper coordination for beam installation**
+
+### Planning Documentation Status
+- [x] Initial planning documentation complete
+- [x] Professional contractor review completed
+- [ ] Plans revised to address contractor concerns
+- [x] Critical issues identified and documented
+- [x] Realistic budget and timeline established
+
+---
+
+## 🔗 Quick Navigation
+
+| Need | Document | Description |
+|------|----------|-------------|
+| **🚨 CRITICAL ISSUES** | [Professional Review](professional-contractor-review.md) | **Must read before proceeding** |
+| **Visual guides** | [Structural Diagrams](structural-diagrams.md) | ASCII diagrams for all components |
+| **Step-by-step** | [Installation Steps](installation-steps.md) | Detailed construction sequence |
+| **Shopping list** | [Materials List](materials-list.md) | Complete materials and costs |
+| **Engineering** | [Calculations](calculations.md) | Load calculations (needs pro review) |
+| **Project constraints** | [User Considerations](user_considerations.md) | Requirements and limitations |
+| **Progress tracking** | [Workflow Todos](workflow-todos.md) | Project completion status |
+
+---
+
+## 📞 Professional Support Recommended
+
+Consider consulting a structural engineer or experienced contractor for:
+- Final review of beam sizing calculations
+- Local building code compliance verification  
+- Site-specific soil and drainage considerations
+- Electrical safety if power lines are present
+
+**Remember**: When in doubt, consult a professional. Safety is paramount in construction projects.
+
+---
+
+*Last Updated: August 30, 2025*  
+*Project Version: v4 with amateur builder enhancements*

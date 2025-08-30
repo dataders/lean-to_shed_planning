@@ -49,11 +49,8 @@ This document captures the specific user requirements, constraints, and preferen
 ## Planning Requirements
 
 - Include time estimates for all construction phases
-- **NEW**: Add amateur-focused time estimates (account for learning curve, mistakes, breaks)
 - Account for one-person construction approach
 - Consider tool limitations and upgrade recommendations
 - Plan material delivery if 12-foot transport limit exceeded
 - Include pier leveling/alignment procedures
 - Specify Torx fasteners throughout project
-- **NEW**: Create structural diagrams showing construction details
-- **NEW**: Add executive summary section to comprehensive plan

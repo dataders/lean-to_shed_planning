@@ -6,15 +6,14 @@
 | Item | Size | Quantity | Length | Purpose | Est. Cost | Transport Notes |
 |------|------|----------|--------|---------|-----------|----------------|
 | Rafters | 2x6 | 9 pieces | 8' | Main roof structure | $45-60 | ✓ Fits in hatchback |
-| Beam | 2x12 | 2 pieces | 12' | Support beam (sistered) **⚠️ UPGRADED** | $90-120 | ✓ Fits in hatchback |
+| Beam | 2x10 | 2 pieces | 12' | Support beam (sistered) | $70-90 | ✓ Fits in hatchback |
 | Ledger Board | 2x8 | 2 pieces | 8' | Wall attachment (joined) | $30-40 | ✓ Fits in hatchback |
 | Purlines | 2x4 | 16 pieces | 8' | Roofing support | $50-70 | ✓ Fits in hatchback |
 | Posts | 4x4 | 3 pieces | 8' | Vertical support | $30-45 | ✓ Fits in hatchback |
 
-**Lumber Subtotal: ~$245-335** **(Updated for 2x12 beam upgrade)**
+**Lumber Subtotal: ~$225-305**
 
 **⚠️ TRANSPORT MODIFICATION**: All lumber has been sized to fit 12-foot hatchback capacity. Beam and ledger will require field splicing.
-**⚠️ BEAM UPGRADE**: Professional contractor review required beam upgrade from 2x10 to 2x12 for adequate safety margin.
 
 ## Hardware & Fasteners
 
@@ -67,11 +66,7 @@
 | Hardware | $106 | $152 |
 | Roofing | $270 | $390 |
 | Miscellaneous | $63 | $92 |
-| **MATERIALS SUBTOTAL** | **$699** | **$985** |
-| **Permits & Engineering** | **$450** | **$1,300** |
-| **Equipment Rental** | **$200** | **$400** |
-| **Helper Labor** | **$200** | **$400** |
-| **REALISTIC TOTAL** | **$1,549** | **$3,085** |
+| **TOTAL** | **$679** | **$955** |
 
 ## Shopping Tips
 
@@ -102,7 +97,7 @@
 - **Fall/Winter**: Potential discounts, limited installation weather
 - **Bulk Purchases**: Consider combining with other projects
 
-## 🚨 CRITICAL: Tool & Equipment Requirements
+## Tool Investment Considerations
 
 ### Current Tool Assessment (20V DeWalt Cordless)
 - ✓ **Drill/Driver**: Adequate for project needs
@@ -110,26 +105,17 @@
 - ✓ **Reciprocating Saw**: Good for rough cuts and demo
 - ✓ **Oscillating Saw**: Useful for precise trim cuts
 - ✓ **Rotary Hammer**: Excellent for concrete work
-- ❌ **Miter Saw**: **CRITICAL ISSUE** - Current cheap model inadequate for structural accuracy
+- ⚠️ **Miter Saw**: Current cheap model may struggle with accuracy
 
-### REQUIRED Equipment (Not Optional)
-- **Professional-Grade Miter Saw**: Rent or buy ($200-400)
-  - **Contractor Review**: Cheap saw will cause rafter fitting problems
-  - **Accuracy Required**: Bird's mouth cuts must be precise for structural integrity
-- **Scaffolding/Work Platform**: Rent ($100-200)
-  - **Safety Requirement**: Beam installation at 6.5' height
-  - **Helper Safety**: Stable platform essential for multiple workers
-- **Laser Level**: Rent or buy ($50-150)
-  - **Pier Alignment**: Professional accuracy needed for corrections
-  - **Beam Installation**: Critical for proper slope
+### Recommended Tool Upgrades
+- **Priority 1**: 12" Sliding Compound Miter Saw ($200-400)
+  - Critical for accurate rafter cuts and complex angles
+  - Current saw may lack precision for bird's mouth cuts
+- **Priority 2**: Cordless Circular Saw 7-1/4" ($150-250)
+  - Alternative to radial saw, more versatile
+  - Pairs well with existing DeWalt 20V system
 
-### Optional but Strongly Recommended
-- **Beam Lift/Equipment Dolly**: Rent ($50-100)
-  - **120 lb beam**: Two 12' 2x12s are heavy and awkward
-- **Professional Chalk Line & String Line Kit**: Buy ($30-50)
-  - **Layout Accuracy**: Critical for amateur builders
-
-**Equipment Investment Total: $350-900** (Essential for safety and success)
+**Tool Investment Total: $350-650** (Significant time savings and accuracy improvement)
 
 ## Quality Upgrades
 - **Premium Option**: Upgrade to 2x12 beam for extra capacity (+$40)

@@ -24,21 +24,25 @@ copy contents of `outputs/` into a folder within `archive/` but rename `outputs/
 - `X`: the attempt number we're on
 - `TIMESTAMP` the timestamp at which `outputs/` was last generated
 
-### 3. Make a plan
+### 3. Incorporate user considerations
 
-Follow a general format for improving the plans.
+If the user has provided additional considerations, requirements, or constraints, create a file called `user_considerations.md` in the `outputs/` directory to document these inputs. This ensures all user-provided context is preserved and incorporated into the planning process.
+
+### 4. Make a plan
+
+Follow a general format for improving the plans, incorporating any user considerations from the previous step.
 
 Write the plan into a to do file
 
-### 4. Follow the plan
+### 5. Follow the plan
 
 Execute the plan update the todo file as you go
 
-### 5. execute Workflow Improvement Protocol
+### 6. execute Workflow Improvement Protocol
 
 detailed below
 
-### 6. Create CHAT_LOG.md
+### 7. Create CHAT_LOG.md
 
 Automatically create/update CHAT_LOG.md with complete session history:
 - Use exact user quotes (never paraphrase)

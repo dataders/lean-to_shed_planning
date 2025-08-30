@@ -38,6 +38,13 @@ Execute the plan update the todo file as you go
 
 detailed below
 
+### 6. Create CHAT_LOG.md
+
+Automatically create/update CHAT_LOG.md with complete session history:
+- Use exact user quotes (never paraphrase)
+- Include complete Claude responses with all actions taken
+- Follow standard CHAT_LOG format and structure
+
 ## Reference Materials
 
 - Check `archive/` for historical context and completed posts
@@ -186,6 +193,39 @@ Include the following information in the workflow todos file:
 **Problem**: Often Claude will think we are building a freestanding roof or structure instead of a new structure that is attached to the wall of an existing structure
 **Solution**: 
 Review responses to make sure this is respected
+
+### Missing structural calculations
+**Problem**: Initial specifications may lack engineering calculations needed for proper construction
+**Solution**: 
+- Always calculate rafter lengths using rise/run geometry: √(run² + rise²)
+- Determine beam sizing based on span, load, and deflection requirements
+- Verify connection capacities for all structural connections
+- Check deflection limits (typically L/240 for live load)
+
+### Inadequate cost estimation
+**Problem**: Material lists without quantities and cost ranges are not actionable
+**Solution**:
+- Provide specific quantities for all materials
+- Include cost ranges (low/high estimates) for budget planning
+- Break down costs by category (lumber, hardware, roofing, misc)
+- Note regional variations and seasonal pricing considerations
+
+### Missing installation details
+**Problem**: High-level plans without step-by-step installation sequences
+**Solution**:
+- Create detailed 5-phase installation plan
+- Include specific cutting details (bird's mouth dimensions)
+- Specify fastener types and spacing for each connection
+- Add quality control checkpoints throughout process
+- Include safety protocols and weather considerations
+
+### Incomplete materials specifications
+**Problem**: Generic material lists without specific hardware or fastener details  
+**Solution**:
+- Specify exact fastener sizes and types (lag bolts, carriage bolts, etc.)
+- Include connection hardware (joist hangers, post anchors)
+- Detail roofing accessories (drip edge, underlayment, closure strips)
+- Add tool requirements and safety equipment needs
 
 
 ## Workflow Improvement Protocol

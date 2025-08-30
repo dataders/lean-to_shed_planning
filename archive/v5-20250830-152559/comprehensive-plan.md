@@ -19,13 +19,7 @@
 5. **Proper Equipment**: Rent professional-grade tools for accuracy
 
 ### Work Overview
-This project involves building a 16' x 6.5' lean-to roof that attaches to your existing shed wall and is supported by three concrete piers (already completed). The structure uses **side-sistered 2x12 beams** (rafters sandwiched between beam halves), 2x6 rafters at 24" spacing, and corrugated steel roofing.
-
-### 🔄 **DESIGN UPDATE**: Side-Sistered Beam Configuration
-- **Stronger connection**: Rafters maintain full structural depth (no bird's mouth notching)
-- **Easier assembly**: No precision rafter cuts required
-- **Better alignment**: Self-aligning during installation
-- **Amateur-friendly**: Eliminates most difficult aspect of rafter installation
+This project involves building a 16' x 6.5' lean-to roof that attaches to your existing shed wall and is supported by three concrete piers (already completed). The structure uses sistered 2x10 beams, 2x6 rafters at 24" spacing, and corrugated steel roofing.
 
 ### Critical Success Factors
 - **Tool upgrade recommended**: Current miter saw may lack precision for rafter cuts
@@ -65,7 +59,7 @@ This project involves building a 16' x 6.5' lean-to roof that attaches to your e
 |-------|-------------|------|-----------|
 | **Phase 1** | [Ledger Installation](installation-steps.md#phase-1-ledger-board-installation) | 5-7 hrs | Wall attachment, flashing, hangers |
 | **Phase 2** | [Posts & Beam](installation-steps.md#phase-2-post-and-beam-assembly) | 6-8 hrs | Pier corrections, beam sistering |
-| **Phase 3** | [Rafter Installation](installation-steps.md#phase-3-rafter-installation) | 6-8 hrs | **Side-sistered assembly (no bird's mouth)** |
+| **Phase 3** | [Rafter Installation](installation-steps.md#phase-3-rafter-installation) | 8-10 hrs | Precision cutting, bird's mouth |
 | **Phase 4** | [Purline Installation](installation-steps.md#phase-4-purline-installation) | 3-4 hrs | Roofing substrate preparation |
 | **Phase 5** | [Metal Roofing](installation-steps.md#phase-5-roofing-installation) | 8-11 hrs | Panel installation, weatherproofing |
 
@@ -79,17 +73,17 @@ This project involves building a 16' x 6.5' lean-to roof that attaches to your e
 
 ## 💰 Project Budget
 
-### Cost Breakdown (Updated After Professional Review + Side-Sistered Design)
-| Category | Original | Revised | Side-Sistered | Notes |
-|----------|----------|---------|---------------|-------|
-| **Lumber** | $225-305 | $265-345 | $265-345 | **Beam upgrade to 2x12s** |
-| **Hardware** | $116-167 | $116-167 | $176-241 | **Additional bolts & structural screws** |
-| **Roofing** | $270-390 | $270-390 | $270-390 | Corrugated steel system |
-| **Miscellaneous** | $68-93 | $68-93 | $68-93 | Sealants, fasteners, misc |
-| **Permits & Engineering** | $0 | $450-1,300 | $450-1,300 | **Professional review required** |
-| **Equipment Rental** | $0 | $200-400 | $200-400 | **Proper tools essential** |
-| **Helper Labor** | $0 | $200-400 | $200-400 | **Skilled assistance needed** |
-| **FINAL TOTAL** | **$679-955** | **$1,300-2,200** | **$1,459-2,356** | **16' beam transport solution** |
+### Cost Breakdown (Updated After Professional Review)
+| Category | Original | Revised | Notes |
+|----------|----------|---------|-------|
+| **Lumber** | $225-305 | $265-345 | **Beam upgrade to 2x12s required** |
+| **Hardware** | $116-167 | $116-167 | Torx fasteners throughout |
+| **Roofing** | $270-390 | $270-390 | Corrugated steel system |
+| **Miscellaneous** | $68-93 | $68-93 | Sealants, fasteners, misc |
+| **Permits & Engineering** | $0 | $450-1,300 | **Professional review required** |
+| **Equipment Rental** | $0 | $200-400 | **Proper tools essential** |
+| **Helper Labor** | $0 | $200-400 | **Skilled assistance needed** |
+| **REVISED TOTAL** | **$679-955** | **$1,300-2,200** | **Realistic project cost** |
 
 ### Optional Tool Upgrades
 - **Priority 1**: 12" Sliding Compound Miter Saw ($200-400)
@@ -128,7 +122,7 @@ This project involves building a 16' x 6.5' lean-to roof that attaches to your e
 
 ### Component Sizes (Updated After Professional Review)
 - **Rafters**: 9 pieces 2x6x8' ✅ *Fits hatchback*
-- **Beam**: 4 pieces 2x12x12' (2 spliced 16' beams, side-sistered) ✅ *Fits hatchback* **⚠️ TRANSPORT SOLUTION**
+- **Beam**: 2 pieces 2x12x12' (sistered) ✅ *Fits hatchback* **⚠️ UPGRADED FROM 2x10**
 - **Ledger**: 2 pieces 2x8x8' (field-joined) ✅ *Fits hatchback*
 - **Posts**: 3 pieces 4x4x8' ✅ *Fits hatchback*
 - **Purlines**: 16 pieces 2x4x8' (field-joined) ✅ *Fits hatchback*
@@ -142,7 +136,7 @@ This project involves building a 16' x 6.5' lean-to roof that attaches to your e
 ### Hatchback Accommodation (12' Limit)
 All lumber has been sized to fit within your 12-foot transport capacity:
 
-- **Beam Strategy**: Four 12' 2x12s joined to create two 16' beam halves, side-sistered with rafters sandwiched between
+- **Beam Strategy**: Two 12' 2x10s sistered together in field
 - **Ledger Strategy**: Two 8' 2x8s joined with splice plate
 - **Purline Strategy**: 8' sections joined at rafter intersections
 - **No delivery required**: All materials fit in hatchback

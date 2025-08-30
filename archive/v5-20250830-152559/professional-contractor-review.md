@@ -1,19 +1,8 @@
 # Professional Contractor Review
 
-**Review Date**: August 30, 2025 (Updated for Side-Sistered Design)  
+**Review Date**: August 30, 2025  
 **Reviewer Perspective**: Licensed General Contractor with 20+ years experience  
 **Project**: DIY Lean-To Roof Construction
-
-## 🔄 **DESIGN UPDATE**: Side-Sistered Beam Configuration
-
-**Latest Change**: Updated to side-sistered beam design where rafters are sandwiched between beam halves rather than using traditional bird's mouth cuts.
-
-### Side-Sistered Design Benefits ✅
-- **Eliminates bird's mouth cutting** - Most difficult aspect for amateur builders
-- **Maintains full rafter strength** - No structural notching required
-- **Self-aligning installation** - Easier to achieve proper fit
-- **Stronger connections** - Full rafter depth engagement
-- **Reduces skilled labor requirement** - Simpler for DIY implementation
 
 ---
 
@@ -106,8 +95,7 @@ The current plan shows good structural calculations but has significant gaps in 
 - **Contingency Materials**: 15-20% of material cost for mistakes/waste
 - **Helper Labor**: $200-400 (skilled assistance needed)
 
-**True Project Cost**: $1,369-2,274 (vs. $679-955 originally estimated)
-**Side-Sistered Design Impact**: +$69-74 for additional hardware
+**True Project Cost**: $1,300-2,200 (vs. $679-955 estimated)
 
 ---
 

@@ -36,7 +36,7 @@
 ## Cross-Section Detail (Looking Along 16' Length)
 
 ```
-                CROSS-SECTION VIEW - SIDE-SISTERED BEAM
+                CROSS-SECTION VIEW
                 
         EXISTING SHED
         |
@@ -54,11 +54,10 @@
     ────────────────────────────────  Ground (7.5')
                          \
                           \
-                    ╔════■════╗  Side-Sistered 2x12 Beam
-                    ║ 2x12║2x12 ║  (Rafter sandwiched between)
-                    ║    ║     ║  6.42' height
-                    ╚════■════╝
-                         ║
+                        ═══════  Beam (sistered 2x10s)
+                          ║      6.42' height
+                          ║
+                          ║
                       ═════════  Concrete Pier
                        4x4 Post
                        
@@ -67,69 +66,56 @@
     
     Pitch: 2:12 (2" rise per 12" run)
     Rise: 6.5' × (2/12) = 13 inches
-    Beam Width: 3" total (1.5" + gap + 1.5")
 ```
 
-## Rafter Detail - Side-Sistered Beam Connection
+## Rafter Detail with Bird's Mouth Cut
 
 ```
-                RAFTER CONNECTION DIAGRAM - NO BIRD'S MOUTH REQUIRED
+                RAFTER CUTTING DIAGRAM
                 
     ←------ 8' 2x6 Rafter ----→
     
     Ledger End                                      Overhang End
          |                                               |
-         |         Side-Sistered Connection              |
+         |           Bird's Mouth Cut                    |
          |                 ↓                            |
     ═════════════════════════════════════════════════════════
-                       ╔═══════════╗  
-                       ║  2x12 #1  ║  ← 1.5" thick
-                       ║═══════════║  ← Rafter fits here (1.5" gap)
-                       ║  2x12 #2  ║  ← 1.5" thick
-                       ╚═══════════╝
-                           ↑
-                    Full Strength Rafter
-                    (No structural notching)
+                             ┌─────┐  
+                             │ 1.5"│  ← Horizontal cut
+                             │     │
+                             │ 3.5"│  ← Vertical cut  
+                             └─────┘
+                               ↑
+                          Beam Contact
                           
-    Connection Details:
-    - No bird's mouth cut required
-    - Rafter maintains full 5.5" depth
-    - 6" Torx structural screws: 4 per rafter connection
-    - 2 screws each side through beam faces
-    - Total connection width: 4.5" (1.5" + 1.5" + 1.5")
-    - Angle maintained by ledger connection: 9.46° (2:12 pitch)
+    Measurements:
+    - Total rafter length: 8' (7.09' needed + waste)
+    - Bird's mouth depth: 1.5" (beam width)
+    - Bird's mouth height: 3.5" (sits on beam top)
+    - Angle: 9.46° (2:12 pitch angle)
 ```
 
-## Side-Sistered Beam Assembly & Post Connection
+## Beam Connection Detail
 
 ```
-                SIDE-SISTERED BEAM ASSEMBLY
+                BEAM-TO-POST CONNECTION
                 
-    ╔════════════════════════════════╗  2x12 Beam #1
-    ║                                ║  
-    ║         ○           ○          ║  ← 1/2" Carriage bolts, 16" OC
-    ║                                ║    (connecting beam halves)
-    ╠════════════════════════════════╣  ← 1.5" Gap for rafters
-    ║                                ║
-    ║         ○           ○          ║  ← 1/2" Carriage bolts, 16" OC
-    ║                                ║
-    ╚════════════════════════════════╝  2x12 Beam #2
-                     ║
-                     ║  4x4 Post
-                     ║
-                     ○  ← 1/2" x 10" Carriage bolt
-                     ║    through both beam halves and post
-                     ║
-                     ║
-                ═══════════  Concrete Pier
-                Simpson Strong-Tie Bracket
-                (already installed)
-
-    Assembly Notes:
-    - Beam halves temporarily bolted at ends for positioning
-    - Post connection bolt goes through all three members
-    - Rafter installation gaps beam halves to final 1.5" spacing
-    - Final beam bolts installed at 16" centers between rafters
+    ════════════════════════════════  Sistered 2x10 Beam
+    ║ 2x10 #1    ║    2x10 #2      ║  (joined with carriage bolts)
+    ║            ║                 ║
+    ║    ○       ║        ○        ║  ← 1/2" Carriage bolts, 16" OC
+    ║            ║                 ║
+    ════════════════════════════════
+                 ║
+                 ║  4x4 Post
+                 ║
+                 ○  ← 1/2" x 8" Carriage bolt
+                 ║    through beam and post
+                 ║
+                 ║
+            ═══════════  Concrete Pier
+            Simpson Strong-Tie Bracket
+            (already installed)
 ```
 
 ## Ledger Board Attachment Detail

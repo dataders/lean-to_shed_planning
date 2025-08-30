@@ -6,17 +6,14 @@
 | Item | Size | Quantity | Length | Purpose | Est. Cost | Transport Notes |
 |------|------|----------|--------|---------|-----------|----------------|
 | Rafters | 2x6 | 9 pieces | 8' | Main roof structure | $45-60 | ✓ Fits in hatchback |
-| Beam | 2x12 | 4 pieces | 12' | Support beam (2 sections joined) **⚠️ TRANSPORT SOLUTION** | $180-240 | ✓ Fits in hatchback |
+| Beam | 2x12 | 2 pieces | 12' | Support beam (sistered) **⚠️ UPGRADED** | $90-120 | ✓ Fits in hatchback |
 | Ledger Board | 2x8 | 2 pieces | 8' | Wall attachment (joined) | $30-40 | ✓ Fits in hatchback |
 | Purlines | 2x4 | 16 pieces | 8' | Roofing support | $50-70 | ✓ Fits in hatchback |
 | Posts | 4x4 | 3 pieces | 8' | Vertical support | $30-45 | ✓ Fits in hatchback |
 
-**Lumber Subtotal: ~$335-415** **(Updated for 16' beam solution)**
+**Lumber Subtotal: ~$245-335** **(Updated for 2x12 beam upgrade)**
 
-**⚠️ TRANSPORT SOLUTION**: 16' beams require joining two 12' sections per beam half
-- **Each beam half**: Two 12' 2x12s joined end-to-end = 24' total length (trimmed to 16')
-- **Both beam halves**: Four 12' 2x12s total required
-- **Field assembly**: Structural joint at beam midspan (8' from each end)
+**⚠️ TRANSPORT MODIFICATION**: All lumber has been sized to fit 12-foot hatchback capacity. Beam and ledger will require field splicing.
 **⚠️ BEAM UPGRADE**: Professional contractor review required beam upgrade from 2x10 to 2x12 for adequate safety margin.
 
 ## Hardware & Fasteners
@@ -28,14 +25,11 @@
 | Hanger Nails | 1.5" galvanized | 2 lbs | Hanger installation | $8-12 |
 | Lag Bolts | 1/2" x 6" | 12 pieces | Ledger to wall | $25-35 |
 | Washers | 1/2" galvanized | 12 pieces | For lag bolts | $5-8 |
-| Carriage Bolts | 1/2" x 10" | 3 pieces | Beam to post connection (through both halves) | $12-18 |
-| Carriage Bolts | 1/2" x 6" | 16 pieces | Side-sistered beam assembly | $32-48 |
-| Carriage Bolts | 1/2" x 8" | 4 pieces | Beam splice joints (midspan) | $12-18 |
-| Structural Screws | 6" Torx | 36 pieces | Rafter to beam connections (4 per rafter) | $45-65 |
-| Nuts & Washers | 1/2" galvanized | 23 sets | For all carriage bolts | $18-30 |
+| Carriage Bolts | 1/2" x 8" | 6 pieces | Beam to post connection | $15-20 |
+| Nuts & Washers | 1/2" galvanized | 6 sets | For carriage bolts | $8-12 |
 | Post Anchors | 4x4 Simpson Strong-Tie | 3 pieces | Post to concrete | $30-45 |
 
-**Hardware Subtotal: ~$191-259** *(Updated for 16' beam splice connections)*
+**Hardware Subtotal: ~$106-152**
 
 ## Roofing Materials
 
@@ -69,15 +63,15 @@
 
 | Category | Low Estimate | High Estimate |
 |----------|--------------|---------------|
-| Lumber | $335 | $415 |
-| Hardware | $191 | $259 |
+| Lumber | $230 | $305 |
+| Hardware | $106 | $152 |
 | Roofing | $270 | $390 |
 | Miscellaneous | $63 | $92 |
-| **MATERIALS SUBTOTAL** | **$859** | **$1,156** |
+| **MATERIALS SUBTOTAL** | **$699** | **$985** |
 | **Permits & Engineering** | **$450** | **$1,300** |
 | **Equipment Rental** | **$200** | **$400** |
 | **Helper Labor** | **$200** | **$400** |
-| **REALISTIC TOTAL** | **$1,709** | **$3,256** |
+| **REALISTIC TOTAL** | **$1,549** | **$3,085** |
 
 ## Shopping Tips
 

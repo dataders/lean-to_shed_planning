@@ -58,27 +58,27 @@
 - [ ] Temporarily brace posts with 2x4 bracing
 - [ ] Secure posts in brackets per manufacturer specs
 
-### Step 2.3: Install Side-Sistered Beam Assembly
-- [ ] **Prepare beam halves**: Mark two 12' 2x12s for post locations (8' spacing)
-- [ ] **Temporary assembly**: Loosely bolt beam halves at ends only for handling
-- [ ] **Position beam assembly**: Set on posts with helper (beam halves together)
+### Step 2.3: Install Beam (Modified for Transport)
+- [ ] **Sister beam assembly**: Join two 12' 2x10s with carriage bolts
+- [ ] Stagger bolt pattern every 16" along beam length
+- [ ] Use construction adhesive between sistered members
+- [ ] Mark beam for post locations (8' spacing)  
+- [ ] Set beam on posts with helper or lifting equipment
 - [ ] **Account for pier misalignment**: Adjust beam level with shims if needed
-- [ ] **Install post connection bolts**: 1/2" x 10" carriage bolts through all three members
-- [ ] **Check beam for level**: Adjust posts if needed before final tightening
-- [ ] **Gap beam halves**: Separate to 1.5" spacing for rafter installation
-- [ ] **Mark rafter locations**: 24" on center starting from shed wall
+- [ ] Check beam for level and adjust posts if needed
+- [ ] Drill holes and secure beam to posts with Torx lag bolts
 
 ## Phase 3: Rafter Installation
 **⏱️ Estimated Time: 4-6 hours**
 
-### Step 3.1: Prepare Rafters (No Bird's Mouth Required)
+### Step 3.1: Cut First Rafter (Template)
 - [ ] **Tool consideration**: Use upgraded miter saw for precision cuts
-- [ ] Cut 2x6s to 8' length (9 pieces total)
-- [ ] **NO BIRD'S MOUTH CUTTING**: Side-sistered design eliminates notching
-- [ ] Mark proper angle cuts at ledger end (9.46° for 2:12 pitch)
-- [ ] Cut ledger end angles on all rafters
-- [ ] Mark rafter end cuts for 6" overhang past beam centerline
-- [ ] Cut overhang ends square or with decorative angle as desired
+- [ ] Cut 2x6 to 8' length
+- [ ] Mark and cut bird's mouth: 1.5" horizontal x 3.5" vertical  
+- [ ] **Account for beam variations**: Measure each post location individually
+- [ ] Test fit rafter between ledger and beam
+- [ ] Adjust cuts until fit is perfect
+- [ ] Mark rafter end cuts for proper overhang
 
 ### Step 3.2: Install Rafter Hangers
 - [ ] Mark hanger locations on ledger at 24" OC
@@ -86,20 +86,18 @@
 - [ ] Ensure hangers are level and properly aligned
 - [ ] Double-check spacing measurements
 
-### Step 3.3: Install Rafters in Side-Sistered Beam
-- [ ] **Install first rafter**: Start with end rafter for alignment
-- [ ] Set rafter in hanger at ledger board
-- [ ] **Insert rafter between beam halves**: Full depth insertion (no notching)
-- [ ] **Install structural screws**: 6" Torx screws, 2 per side (4 total per rafter)
-- [ ] **Drill pilot holes**: Prevent splitting with proper pilot holes
-- [ ] **Check rafter level**: Ensure proper slope alignment
-- [ ] **Repeat for all 9 rafters**: Work systematically along beam
+### Step 3.3: Cut Remaining Rafters
+- [ ] Use template rafter to mark remaining 8 rafters
+- [ ] Cut all rafters to identical dimensions
+- [ ] Test fit 2-3 rafters before cutting all
+- [ ] Stack cut rafters to prevent warping
 
-### Step 3.4: Complete Beam Assembly
-- [ ] **Install remaining beam bolts**: 1/2" x 6" carriage bolts between rafters
-- [ ] **Bolt spacing**: 16" on center between rafter locations
-- [ ] **Final tightening**: Ensure all connections are snug
-- [ ] **Check final alignment**: Verify beam straightness and rafter alignment
+### Step 3.4: Install Rafters
+- [ ] Start with end rafters and work toward center
+- [ ] Set rafters in hangers at ledger board
+- [ ] Secure bird's mouth to beam with Torx structural screws
+- [ ] **Check for pier-induced variations**: Adjust individual rafter fits
+- [ ] Check each rafter for proper seating
 - [ ] Install blocking between rafters if required by code
 
 ## Phase 4: Purline Installation

@@ -34,14 +34,12 @@ Rafter Length = Theoretical + Overhangs
 Specify: 8' 2x6 rafters (allows for cutting/waste)
 ```
 
-### Rafter Connection to Side-Sistered Beam
-**DESIGN CHANGE**: Side-sistered beam configuration eliminates bird's mouth cuts
+### Bird's Mouth Cut Dimensions
+For 2x beam (actual 1.5" x 9.25"):
 ```
-Beam Configuration: Two 2x12s with rafters sandwiched between
-Rafter Connection: Direct attachment with through-bolts or structural screws
-Connection Width: 3" (two 2x12s + rafter = 1.5" + 1.5" + 1.5" = 4.5" total)
-Advantage: Eliminates structural notching of rafters
-Advantage: Stronger connection than traditional bird's mouth
+Horizontal Cut (seat) = 1.5" (beam width)  
+Vertical Cut (plumb) = 3.5" (maximum for 2x6)
+Remaining Rafter Depth = 5.5" - 3.5" = 2.0" (adequate)
 ```
 
 ## Beam Sizing Analysis
@@ -76,45 +74,7 @@ Required Section Modulus = M/Fb = 7,280 × 12 / 900 = 97.1 in³
 | (2) 2x12 | 147.6 in³ | **YES** | Conservative option |
 | 4x10 | 230.8 in³ | **YES** | Overkill but simple |
 
-**Recommendation**: Use (2) 2x12s in side-sistered configuration with 1/2" carriage bolts every 16".
-
-## Side-Sistered Beam Design Details
-
-### Configuration Description
-```
-Side-Sistered Beam Assembly:
-- Two 2x12s positioned parallel with gap between
-- Gap sized to accommodate 2x6 rafters (1.5" actual width)
-- Through-bolts connect beam members at post locations
-- Rafters inserted between beam halves at each rafter location
-```
-
-### Connection Analysis
-```
-Rafter-to-Beam Connection Options:
-1. Through-bolts: 1/2" carriage bolts through all three members
-2. Structural screws: 6" Torx structural screws from each side
-3. Lag bolts: 6" lag bolts countersunk from outside faces
-
-Recommended: 6" Torx structural screws (2 per side, 4 total per rafter)
-- Easier installation than through-bolts
-- No rafter removal required for beam assembly
-- Superior holding power to standard screws
-```
-
-### Assembly Sequence Advantages
-```
-Traditional Method Problems:
-- Rafters must fit precise bird's mouth cuts
-- Weakens rafter at critical stress point
-- Difficult to achieve perfect fit
-
-Side-Sistered Method Benefits:
-- No rafter notching required (full strength maintained)
-- Easier field assembly and adjustment
-- Stronger connection with full rafter depth
-- Self-aligning during installation
-```
+**Recommendation**: Use (2) 2x10s sistered together with 1/2" carriage bolts every 16".
 
 ## Post Sizing Verification
 

@@ -14,7 +14,7 @@ I've never built a lean-to roof before, but as a father of two, I am in desparat
 
 While I could call my own father, or bug my very handy neighbor. Why shouldn't an LLM help me do this?
 
-We are now in the era of the handy dad acheiving singularity. He is in the machine. His capacity to use the computer and internal has increased enormously. His emotional availability is unchanged.
+The handy dad has acheived singularity. He is in the machine. His capacity to use the computer and internet has increased enormously. His emotional availability is unchanged.
 
 I find myself alone for Labor day weekend, which is a perfect opportunity to make progress on this project.
 

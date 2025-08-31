@@ -1,7 +1,6 @@
 # Lean-To Roof Construction Workflow Todos (Updated)
 
 **Session Start**: 2025-08-30 14:35:48 (Updated: 14:43:30)
-**Latest Session**: 2025-08-31 10:40:17 (Collar Tie Analysis)
 **Project**: DIY Lean-To Roof with Enhanced Amateur Builder Support
 
 ## User-Specified Constraints Incorporated
@@ -14,7 +13,6 @@
 - ✅ **Time Estimates**: All phases include amateur-focused time estimates
 - ✅ **NEW**: Structural diagrams with ASCII art created
 - ✅ **NEW**: Executive summary added to comprehensive plan
-- ✅ **NEWEST**: Collar tie analysis completed (NOT NEEDED for lean-to design)
 
 ## Updated Construction Planning Todos
 
@@ -117,13 +115,6 @@
 - **Visual Documentation**: Comprehensive ASCII diagrams showing all structural details
 - **Executive Summary**: Clear project overview with critical success factors
 - **Enhanced Planning**: Professional vs amateur comparison tables
-
-## Current Session Update (2025-08-31)
-- **User Query Addressed**: "Consider if a collar is needed" 
-- **Professional Assessment**: Collar ties are NOT needed for lean-to roof designs
-- **Technical Rationale**: Single-slope design uses vertical load transfer, not opposing rafter thrust
-- **Documentation Updated**: Professional review, user considerations, comprehensive plan all include collar tie analysis
-- **Focus Maintained**: Critical issues (beam sizing, permits, engineering) remain top priority
 
 ## Next Steps Ready for Execution
 - All planning documentation updated with amateur builder considerations

@@ -18,9 +18,6 @@
 4. **Existing Wall Assessment**: Verify shed can handle structural loads
 5. **Proper Equipment**: Rent professional-grade tools for accuracy
 
-### ❌ **COLLAR TIES: NOT NEEDED**
-**User Query Addressed**: Collar ties are NOT required for this lean-to roof design. Unlike gable roofs with opposing rafters that create outward thrust, lean-to roofs transfer loads vertically through the ledger board and support beam system. Structural stability comes from proper connections and vertical support, not from collar tie restraint.
-
 ### Work Overview
 This project involves building a 16' x 6.5' lean-to roof that attaches to your existing shed wall and is supported by three concrete piers (already completed). The structure uses **side-sistered 2x12 beams** (rafters sandwiched between beam halves), 2x6 rafters at 24" spacing, and corrugated steel roofing.
 

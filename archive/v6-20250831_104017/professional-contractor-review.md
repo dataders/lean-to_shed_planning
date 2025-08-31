@@ -253,32 +253,4 @@ Optional: Beam lift rental for heavy work
 
 ---
 
----
-
-## 🔍 **COLLAR TIE ANALYSIS** - User-Requested Review
-
-### Do Collar Ties Apply to This Design? ❌ **NO**
-
-**Professional Assessment**: Collar ties are **NOT needed** and **NOT applicable** for this lean-to roof design.
-
-#### Why Collar Ties Don't Apply:
-
-1. **Lean-To Structure**: Collar ties are used in gable/hip roofs where opposing rafters create outward thrust
-2. **Single-Slope Design**: Lean-to rafters bear on a ledger board (shed wall) and beam, with no opposing forces to counteract
-3. **No Ridge Beam**: Collar ties connect opposing rafters at a ridge - this design has no ridge connection
-4. **Structural System**: The lean-to transfers loads vertically down through posts, not through thrust forces
-
-#### What Provides Structural Stability Instead:
-- **Ledger Board**: Properly attached to existing shed wall (verified load capacity required)
-- **Beam Connection**: Rafters connect to beam via sandwiched/sistered design
-- **Vertical Load Path**: Forces flow down through posts to concrete piers
-- **Lateral Stability**: Provided by purlins and proper rafter spacing
-
-#### Code Compliance:
-Most building codes (IRC, IBC) do not require collar ties for lean-to/shed roof structures under 200 sq ft when properly designed with adequate vertical support.
-
-**Conclusion**: Focus should remain on proper beam sizing (upgrade to 2x12s recommended) and connection details rather than collar ties.
-
----
-
 **Bottom Line**: This is a more complex project than initially presented. Success requires either significant upgrades to the current plan or professional assistance for structural components. Safety and code compliance must not be compromised.
